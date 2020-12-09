@@ -95,9 +95,7 @@ function draw(){
     platform.display();
     //log6.display();
     slingshot.display();    
-bird2.display();
-bird3.display();
-bird4.display();
+
 
 pig1.score();
 pig3.score()
