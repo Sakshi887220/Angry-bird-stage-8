@@ -97,8 +97,6 @@ function draw(){
     slingshot.display();    
 
 
-pig1.score();
-pig3.score()
 
 
 }
